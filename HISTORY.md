@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [7.4.1](https://github.com/mongodb/node-mongodb-native/compare/v7.4.0...v7.4.1) (2026-06-26)
+
+
+### Bug Fixes
+
+* **NODE-7171:** capture resume token before resumeTokenChanged fires ([#4973](https://github.com/mongodb/node-mongodb-native/issues/4973)) ([371579d](https://github.com/mongodb/node-mongodb-native/commit/371579d45944a67dfa160090a543e1760aa60e2f))
+
 ## [7.4.0](https://github.com/mongodb/node-mongodb-native/compare/v7.3.0...v7.4.0) (2026-06-25)
 
 
